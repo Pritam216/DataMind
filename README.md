@@ -1,0 +1,2 @@
+# DataMind
+Your EDA agent
