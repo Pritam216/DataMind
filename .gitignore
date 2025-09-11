@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#directory
+graphs_figs
+
 # Distribution / packaging
 .Python
 build/
